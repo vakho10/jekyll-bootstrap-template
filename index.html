@@ -1,11 +1,11 @@
 --- 
 layout: default 
 ---
-<ul>
+<section>
   {% for post in site.posts %}
-  <li>
+  <article>
     <a href='{{ post.url | relative_url }}'>{{ post.title }}</a>
     {{ post.excerpt }}
-  </li>
+  </article>
   {% endfor %}
-</ul>
+</section>
