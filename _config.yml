@@ -16,7 +16,7 @@
 title: Jekyll Bootstrap Template
 email: vakho10@gmail.com
 github_username:  vakho10
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-bootstrap-template" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
