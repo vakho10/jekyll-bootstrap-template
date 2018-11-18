@@ -22,7 +22,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-{% highlight java  %}
+{% highlight java %}
 /* HelloWorld.java
  */
 
@@ -34,7 +34,7 @@ public class HelloWorld
 }
 {% endhighlight %}
 
-{% highlight html  %}
+{% highlight html %}
 <!doctype html>
 <html lang="en">
   <head>
