@@ -1,0 +1,8 @@
+.highlight {
+    border: 1px dashed #6699cc;
+    padding: 0;
+}
+
+.highlight > pre {
+    padding: 1rem;
+}
